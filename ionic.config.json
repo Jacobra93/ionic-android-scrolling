@@ -1,0 +1,7 @@
+{
+  "name": "ionicAndroidScrollApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
