@@ -6,7 +6,224 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+clients = [
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+  {
+    fullName: 'Jacob',
+  },
+];
   constructor() {}
 
 }
